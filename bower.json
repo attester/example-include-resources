@@ -1,5 +1,5 @@
 {
-  "name": "attester-example-resources",
+  "name": "attester-example-include-resources",
   "version": "1.0.0",
   "main": "src/myLib.js",
   "dependencies": {

@@ -1,11 +1,11 @@
 {
-  "name": "attester-example-resources",
+  "name": "attester-example-include-resources",
   "version": "1.0.0",
   "author": "ariatemplates <contact@ariatemplates.com> (http://github.com/ariatemplates)",
   "description": "Example of attester configuration",
   "repository": {
     "type": "git",
-    "url": "https://github.com/attester/attester-example-resources"
+    "url": "https://github.com/attester/example-include-resources"
   },
   "dependencies": {
     "lodash": "x"
