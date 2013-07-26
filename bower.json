@@ -1,0 +1,8 @@
+{
+  "name": "attester-example-resources",
+  "version": "1.0.0",
+  "main": "src/myLib.js",
+  "dependencies": {
+    "jquery": "x"
+  }
+}

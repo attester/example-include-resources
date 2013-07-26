@@ -1,0 +1,18 @@
+resources:
+  /:
+    - src
+  # All dependencies together inside /lib
+  /lib:
+    - bower_components
+    - node_modules
+
+tests:
+  mocha:
+    files:
+      includes:
+        - tests/*.js
+    # Include the source files in the page to be tested
+    extraScripts:
+      - /myLib.js
+      - /lib/lodash/lodash.js
+      - /lib/jquery/jquery.min.js
